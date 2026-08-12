@@ -1,11 +1,17 @@
 ### Hi, I'm Oliver 👋
 
-I run my own infrastructure at home and like fixing the tools I use every day — most of my open-source work happens where self-hosting meets AI.
+By day I program building automation (MSR) at SysCom Automationstechnik GmbH.
+The same instinct follows me home: I run my own infrastructure and fix the
+tools I use every day — most of my open-source work happens where
+self-hosting meets AI.
 
-**Contributions to [LibreChat](https://github.com/danny-avila/LibreChat):**
+**I contribute upstream to what's running in my rack:**
 
-- 📁 [#14708](https://github.com/danny-avila/LibreChat/pull/14708) — Consistent export filenames across formats
-- 🛠️ [#3533](https://github.com/danny-avila/LibreChat/pull/3533) — Apply safety settings to the Gemini API
-- 🛠️ [#3472](https://github.com/danny-avila/LibreChat/pull/3472) — `LDAP_LOGIN_USES_USERNAME` config fix
+- [LibreChat](https://github.com/danny-avila/LibreChat) — consistent export
+  filenames ([#14708](https://github.com/danny-avila/LibreChat/pull/14708)),
+  Gemini safety settings ([#3533](https://github.com/danny-avila/LibreChat/pull/3533)),
+  LDAP login config ([#3472](https://github.com/danny-avila/LibreChat/pull/3472))
 
-…with more currently in review.
+A few more fixes are in review over at LibreChat,
+[Audiobookshelf](https://github.com/advplyr/audiobookshelf) and
+[Homebridge](https://github.com/homebridge/homebridge-config-ui-x).
