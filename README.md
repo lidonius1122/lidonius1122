@@ -12,6 +12,8 @@ self-hosting meets AI.
   Gemini safety settings ([#3533](https://github.com/danny-avila/LibreChat/pull/3533)),
   LDAP login config ([#3472](https://github.com/danny-avila/LibreChat/pull/3472))
 
-A few more fixes are in review over at LibreChat,
-[Audiobookshelf](https://github.com/advplyr/audiobookshelf) and
-[Homebridge](https://github.com/homebridge/homebridge-config-ui-x).
+- [Homebridge](https://github.com/homebridge/homebridge-config-ui-x) — CPU temperature
+  parsing and widget display ([#2966](https://github.com/homebridge/homebridge-config-ui-x/pull/2966))
+
+A few more fixes are in review over at LibreChat and
+[Audiobookshelf](https://github.com/advplyr/audiobookshelf).
